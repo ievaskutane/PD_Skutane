@@ -1,3 +1,3 @@
-# PD_Skutane
+# Skutane PD_Skutane
 Patstāvīgais praktiskais darbs programmēšanā
 Patstāvīgais darbs platformā GitHub ar versiju kontroles sistēmu Git
